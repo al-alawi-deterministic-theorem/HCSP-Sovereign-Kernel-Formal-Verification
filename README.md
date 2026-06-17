@@ -19,7 +19,7 @@ By shifting the computing paradigm from probabilistic software patching to **Imm
 
 ## 🌐 Official Verification Registry & Manifesto
 To read the full technical Manifesto, inspect the dynamic execution paths, and view the high-resolution formal verification artifacts certified at 100% complete logical correctness, visit the official sovereign registry:
-👉 **[https://blogspot.com](https://blogspot.com)**
+👉 **[https://al-alawi-deterministic-theorem.blogspot.com/2026/06/deep-tech-ip-licensing-1010-high.html)**
 
 ---
 
